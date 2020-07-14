@@ -1,0 +1,43 @@
+,Name,Pre-Sale Price,Unit Price,Qty.,Unit,Net Cost,Type,Brand
+0,Traditional Pizza Crust,4.99,3.5,1.0,ct.,3.5,Bake Shop,
+1,Donut Crossiant,,0.7,2.0,ct.,1.4,Bake Shop,
+2,Shredded Mozzarella,,0.25,16.0,oz.,4.0,Dairy,
+3,Shredded Mild Cheddar,,0.25,16.0,oz.,4.0,Dairy,
+4,Rice Pudding,2.79,0.42,6.0,ct.,2.52,Dairy,
+5,Whole Milk,,4.0,0.5,gal.,2.0,Dairy,
+6,White Eggs,,0.1,18.0,ct.,1.8,Dairy,
+7,Sliced Pepperoni,,9.33,0.5,lb.,4.665,Deli,
+8,Sliced Provolone,,9.92,0.5,lb.,4.96,Deli,
+9,Whole Kosher Dill Pickles,,2.29,1.0,qt.,2.29,Grocery,
+10,Shunky Cream of Chicken Soup,,2.19,1.0,can,2.19,Grocery,Campbell's
+11,Strawberry Preserves,,1.99,1.0,jar,1.99,Grocery,
+12,Bread Flour,,0.4,5.0,lb.,2.0,Grocery,
+13,Pizza Sauce,,1.29,1.0,jar,1.29,Grocery,DelGrosso
+14,Thai Jasmine Rice,,1.59,2.0,lb.,3.18,Grocery,
+15,Oats,,0.05,42.0,oz.,2.1,Grocery,
+16,Tri-Color Rotini,,0.89,1.0,ct.,0.89,Grocery,
+17,Mac and Cheese,,1.32,4.0,box,5.28,Grocery,Annie's
+18,Flour Tortillas,,2.5,1.0,bag,2.5,Grocery,
+19,Regular Spaghetti,,0.89,1.0,ct.,0.89,Grocery,
+20,Fettucini,,0.89,1.0,ct.,0.89,Grocery,
+21,Kettle Cooked Jalapeno Chips,,1.99,2.0,bag,3.98,Grocery,Martin's
+22,Nutrition Shake,,1.8,6.0,ct,10.8,Health and Beauty Care,Ensure Dark Chocolate
+23,St. Louis Pork Ribs,3.29,2.99,1.45,lb,4.335500000000001,Meat,
+24,Chicken Breast Patty,,4.99,1.0,bag,4.99,Meat,Tyson
+25,Chicken Breast,,2.99,1.43,lb,4.2757000000000005,Meat,
+26,Buffalo Chicken,,5.0,1.0,box,5.0,Prepared Foods,
+27,Cherry Tomatoes,,,2.0,ct.,2.0,Produce,Nature's Sweet
+28,Green Beans,,1.99,0.6,lb,1.194,Produce,
+29,Spring Mix,5.0,3.99,1.0,box,3.99,Produce,
+30,Avocados,1.25,1.0,2.0,ct.,2.0,Produce,
+31,Lemons,0.67,0.5,2.0,ct.,1.0,Produce,
+32,Sweet Onions,1.29,1.19,2.11,lb.,2.5109,Produce,
+33,Red Peppers,,1.67,2.0,ct.,3.34,Produce,
+34,Whole Baby Bella Mushrooms,,2.49,1.0,ct.,2.49,Produce,
+35,Kale,,0.99,0.61,lb,0.6039,Produce,
+36,Russet Potatoes,,0.6,5.0,lb.,3.0,Produce,
+37,Shallots,,1.39,0.21,lb.,0.2919,Produce,
+38,Garlic,,0.79,1.0,ct.,0.79,Produce,
+39,Red Grapes,2.49,1.99,1.88,lb,3.7411999999999996,Produce,
+40,Mangoes,,0.99,3.0,ct.,2.9699999999999998,Produce,
+41,Salmon Fillet,9.99,7.49,0.965,lb.,7.22785,Seafood,Fresh
